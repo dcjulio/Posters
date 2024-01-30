@@ -6,8 +6,9 @@ What does a blender actually look like and how does it appear or disappear? We c
 
 Authors:
 Dana C'Julio, Bernd Krauskopf,  Hinke M. Osinga,
-University of Auckland,
-Department of Mathematics,
-dana.cjulio@auckland.ac.nz, 
-b.krauskopf@auckland.ac.nz, 
-h.m.osinga@auckland.ac.nz
+
+dana.cjulio@auckland.ac.nz,  b.krauskopf@auckland.ac.nz, h.m.osinga@auckland.ac.nz,
+
+University of Auckland, Department of Mathematics.
+
+
